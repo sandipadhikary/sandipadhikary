@@ -62,12 +62,6 @@
 
 ---
 
-# 🎨 Choose Your Profile Style
-
-### **1) Modern & Clean (Default)** ✅ *(Already Active)*
-
----
-
 ### 2) 🟨 Fun & Animated Style (Optional)
 
 ```md
