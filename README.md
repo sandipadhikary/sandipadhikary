@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 I’m currently learning **AI/ML & Cloud Deployment**
-- 💼 Software Development & Implementation Trainee @ **Transmogrify Global Pvt Ltd**
+- 💼 Software Development & Implementation Former Trainee @ **Transmogrify Global Pvt Ltd**
 - 💬 Ask me about **React, Node.js, Python, APIs, System Design**
 - 📫 Reach me at **dipsan879@gmail.com**
 - 🧠 I believe in **Building Solutions that Matter**
