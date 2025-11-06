@@ -61,14 +61,3 @@
 | **Cloud Computing** | https://www.iemlearning.com/certificates/pbumsowurx |
 
 ---
-
-### 2) 🟨 Fun & Animated Style (Optional)
-
-```md
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400"/>
-</p>
-
-### 👋 Hey, I'm Sandip!  
-I write code that makes ideas come alive 💡✨  
-Let’s build something awesome together 🚀
