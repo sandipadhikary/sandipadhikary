@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 
-- 🌱 I’m currently learning **AI/ML & Cloud Deployment**
+- 🌱 I’m currently learning **Data Science & Cloud Deployment**
 - 💼 Software Development & Implementation Former Trainee @ **Transmogrify Global Pvt Ltd**
 - 💬 Ask me about **React, Node.js, Python, APIs, System Design**
 - 📫 Reach me at **dipsan879@gmail.com**
